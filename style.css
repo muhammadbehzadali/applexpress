@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
 body {
     background: linear-gradient(black, red);
+   overflow-x: hidden;
 }
 
 .navbar-nav>li>a {
